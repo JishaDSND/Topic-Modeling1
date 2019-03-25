@@ -1,7 +1,7 @@
 # Topic-Modeling
 This notebok will help you understand the significance of harnessing online product reviews with the help of Topic Modeling.
 
-## Topic Modeling is a process to automatically identify topics present in a text object and to derive hidden patterns exhibited by a text corpus. Topic Models are very useful for multiple purposes, including:
+Topic Modeling is a process to automatically identify topics present in a text object and to derive hidden patterns exhibited by a text corpus. Topic Models are very useful for multiple purposes, including:
 
 1.Document clustering
 2.Organizing large blocks of textual data
